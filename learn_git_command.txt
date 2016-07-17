@@ -6,4 +6,6 @@ Creating a new branch is quick and simple.
 Add merge.
 fix bug issue-101.
 
+git stash.
+
 kkk
