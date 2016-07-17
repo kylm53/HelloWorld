@@ -3,4 +3,5 @@ Gitis free software distributed under the GPL.
 Creating a new bes ranch is quick.
 Git has a mutable index called stage.
 Git tracks changes.
+Creating a new branch is quick & simple.
 kkk
