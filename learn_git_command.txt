@@ -2,8 +2,8 @@ Git is a distributed version control system.
 Gitis free software distributed under the GPL.
 Creating a new bes ranch is quick.
 Git has a mutable index called stage.
-Git tracks changes.
 Creating a new branch is quick and simple.
 Add merge.
+fix bug issue-101.
 
 kkk
